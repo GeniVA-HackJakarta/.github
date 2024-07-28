@@ -4,12 +4,11 @@
         <img height="150px" src="https://i.ibb.co.com/b7m7L5Q/logo-color.png" alt=""/>
     </div>
     <div>
-            <h3><b>GeniVA</b></h3>
+            <h1><b>GeniVA</b></h1>
             <p><i>A Key to Your Diabetes Journey</i></p>
     </div>      
 </div>
 <br>
-<h1 align="center">Glutara</h1>
 
 <div align="center">
     <img height="400px" src="https://i.ibb.co.com/zHWCPYD/Prom-Banner.png" alt=""/>
