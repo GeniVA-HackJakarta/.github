@@ -11,7 +11,9 @@
 <br>
 <h1 align="center">Glutara</h1>
 
-![Glutara](https://i.ibb.co.com/zHWCPYD/Prom-Banner.png)
+<div align="center">
+    <img height="400px" src="https://i.ibb.co.com/zHWCPYD/Prom-Banner.png" alt=""/>
+</div>
 
 **GeniVA: Enhancing Grab Engagement with GeniVA's Virtual Assistance and Financial Efficiency**
 
@@ -28,7 +30,9 @@ Analysis reveals two main opportunities: simplifying the process for users to pl
 
 ## 💡 &nbsp;Solution Key Points
 
-![Solution Key Points](https://i.ibb.co.com/7CST06t/Hack-Jakarta-1.png)
+<div align="center">
+    <img height="400px" src="https://i.ibb.co.com/7CST06t/Hack-Jakarta-1.png" alt=""/>
+</div>
 
 ### 1. Grab Food Recommendation
 
@@ -74,10 +78,9 @@ GeniVA aligns with SDG 11 by promoting sustainable urban living. The Grab Transp
 
 ## 🛠️ &nbsp;System Architecture
 
+<div align="center">
 <img src="https://i.ibb.co.com/6F4K8fg/Hack-Jakarta.png" target="_blank" />
-<br />
-
-> Click image to enlarge.
+<br /></div>
 
 ## 👥 &nbsp;Contributors
 
