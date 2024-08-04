@@ -5,7 +5,7 @@
     </div>
     <div>
             <h1><b>GeniVA</b></h1>
-            <p><i>A Key to Your Diabetes Journey</i></p>
+            <p><i>Enhancing Grab Engagement with GeniVA's Virtual Assistance and Financial Efficiency</i></p>
     </div>      
 </div>
 <br>
@@ -13,8 +13,6 @@
 <div align="center">
     <img height="400px" src="https://i.ibb.co.com/zHWCPYD/Prom-Banner.png" alt=""/>
 </div>
-
-**GeniVA: Enhancing Grab Engagement with GeniVA's Virtual Assistance and Financial Efficiency**
 
 GeniVA is a virtual assistant designed to integrate with the Grab app, helping users obtain recommendations that match their preferences and desires. GeniVA features four main functionalities: Grab Food Recommendation, providing user-driven suggestions that lead directly to the transaction page; Grab Transportation Recommendation, offering cost-effective routes with public transport integration; Emotion and Situation-Based Recommendations, enhancing recommendation validity; and Transaction Round-Up Feature, supporting Superbank collaboration and encouraging small, regular savings. Future development will focus on better language capabilities and integration with more Grab services.
 
